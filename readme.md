@@ -1,2 +1,3 @@
-BOT_TOKEN = "8142445503:AAHoF0S0of-bCQmPkOitpHHg9KXTL51bPIg"
-GEMINI_API_KEY = "AIzaSyAs3WE0NyNn_uuNQG2KVUA_deQbYGEOG-8"
+
+### BOT_TOKEN = "your bot token"
+### GEMINI_API_KEY = "your API key"
